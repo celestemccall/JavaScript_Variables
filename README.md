@@ -9,7 +9,7 @@ Your objective is to begin using variables to store and pass values throughout y
 
 > To see your work, you can _log_, or print, the values stored in your variables to the _console_. Use `console.log(variableName)` to see your results in the browser console.
 
-## Exercise 1: Declaring Variables
+## Exercise 1: Declaring Variables ## DONE
 
 Steps are to be completed in the `app.js` file.
 
@@ -17,7 +17,7 @@ Steps are to be completed in the `app.js` file.
 2. Declare a variable named `lastName` using the `let` keyword
 3. Declare a variable named `age` using the `var` keyword
 
-## Exercise 2: Assigning Values to Variables
+## Exercise 2: Assigning Values to Variables ## DONE
 
 Steps are to be completed in the `app.js` file.
 
@@ -25,7 +25,7 @@ Steps are to be completed in the `app.js` file.
 2. Assign your last name as the **string** value to the variable `lastName`
 3. Assign your age as the **number** value to the variable `age`
 
-## Exercise 3: Declaring and Assigning Values to Variables
+## Exercise 3: Declaring and Assigning Values to Variables ## DONE
 
 Steps are to be completed in the `app.js` file.
 
@@ -33,7 +33,7 @@ Steps are to be completed in the `app.js` file.
 2. Declare a variable named `createdYear` using the `let` keyword, and assign it the value `1995` (number)
 3. Declare a variable named `isCaseSensitive` using the `let` keyword, and assign it the value `true` (boolean)
 
-## Exercise 4: Declaring and Assigning Values to Variables x2
+## Exercise 4: Declaring and Assigning Values to Variables x2 ## DONE
 
 Steps are to be completed in the `app.js` file.
 
@@ -44,7 +44,7 @@ Steps are to be completed in the `app.js` file.
 5. Declare a variable named `inStock` using the `let` keyword, and assign it the value `false` (boolean)
 6. Declare a variable named `selectedSize` using the `let` keyword, and assign it the value `"M"` (string)
 
-## Exercise 5: Declaring and Assigning Values to Variables x3
+## Exercise 5: Declaring and Assigning Values to Variables x3 ## DONE
 
 Steps are to be completed in the `app.js` file.
 
